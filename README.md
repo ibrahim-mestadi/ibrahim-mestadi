@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Mestadi</h1>
-<h3 align="center">A Moroccan Software Engineer & Devops-Cloud enthusiast</h3>, looking for a summer internship. 
+<h3 align="center">A Moroccan Software Engineer & Devops-Cloud enthusiast , looking for a summer internship. </h3>
 
 - 🔭 I’m currently working on [a Competitive Programming Platform using Spring Boot/Angular & Docker](private repo)
 
