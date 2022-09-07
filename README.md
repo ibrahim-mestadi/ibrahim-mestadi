@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Software dev Projects**
 
-- 📫 How to reach me **ibrahim.mestadi@Hhotmail.com**
+- 📫 How to reach me **ibrahim.mestadi@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
