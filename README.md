@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Mestadi</h1>
-<h3 align="center">Moroccan Software Engineer & Devops-Cloud enthusiast , looking for a summer internship. </h3>
+<h3 align="center">Software Engineer & Devops-Cloud enthusiast </h3>
 
-- 🔭 I’m currently working on [a Competitive Programming Platform using Spring Boot/Angular & Docker](private repo)
-
-- 🌱 I’m currently learning **Angular & Spring Boot**
+- 🔭 I’m currently working in Orange
 
 - 👯 I’m looking to collaborate on **Software dev Projects**
 
-- 📫 How to reach me **ibrahim.mestadi.emploi@gmail.com**
+- 📫 How to reach me **ibrahim.mestadi@Hhotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
