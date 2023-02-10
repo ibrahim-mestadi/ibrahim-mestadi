@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Mestadi</h1>
 <h3 align="center">Software Engineer & Devops-Cloud enthusiast </h3>
 
-- 🔭 I’m currently working in Orange
+- 🔭 I’m currently a software engineering student, graduation date ?, 2023. 
 
 - 👯 I’m looking to collaborate on **Software dev Projects**
 
