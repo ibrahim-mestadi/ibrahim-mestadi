@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Mestadi</h1>
 <h3 align="center">Software Engineer & Devops-Cloud enthusiast </h3>
 
-- 🔭 I’m currently a software engineering student, graduation date ?, 2023. 
+- 🔭 software engineer
 
 - 👯 I’m looking to collaborate on **Software dev Projects**
-
-- 📫 How to reach me **ibrahim.mestadi@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
