@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahim-mestadi" alt="ibrahim-mestadi" /></a> </p>
 
-- 🌱 I’m currently learning **React, Next.js & Go**
+- 🌱 I’m currently in **Java ,React, Next.js & Go**
 
 - 📝 I regularly write articles on [https://medium.com/@ibrahim.mestadi](https://medium.com/@ibrahim.mestadi)
 
